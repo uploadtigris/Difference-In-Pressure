@@ -1,5 +1,12 @@
 # Diff In Pressure
 A data analysis project from the 2024 Energy AI Hackathon
+### Tools:
+<li>Numpy</li>
+<li>Pandas</li>
+<li>scikit-learn</li>
+<li>seaborn</li>
+<li>git</li>
+
 
 ## Summary:
 
