@@ -1,4 +1,4 @@
-# DiffInPressure
+# Diff In Pressure
 A data analysis project from the 2024 Energy AI Hackathon
 
 ## Summary:
