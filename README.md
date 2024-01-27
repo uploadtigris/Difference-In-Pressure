@@ -1,4 +1,4 @@
-# Diff In Pressure
+# Difference In Pressure
 A data analysis + Machine Learning project from the 2024 Energy AI Hackathon
 ### Tools:
 <li>Numpy</li>
