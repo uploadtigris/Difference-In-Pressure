@@ -1,17 +1,44 @@
-# Difference In Pressure
-A data analysis + Machine Learning project from the 2024 Energy AI Hackathon
-### Tools:
-<li>Numpy</li>
-<li>Pandas</li>
-<li>XGBoost</li>
-<li>scikit-learn</li>
-<li>seaborn</li>
-<li>git</li>
+# Difference In Pressure Analysis - Energy A.I. Hackathon 2024
 
+## 📘 Project Overview
 
+This Jupyter notebook, authored by **Tigris Mendez**, is a submission for the **Energy A.I. Hackathon 2024**. It explores pressure differential data using machine learning techniques to detect patterns and make predictions relevant to energy systems, possibly pipelines or turbine efficiency scenarios.
 
-## Summary:
+![Project Status](https://img.shields.io/badge/status-completed-green)
 
-<text> This problem was originally done with a team of five. The objective of the problem was to solve a Petroleum and Gas Engineering (PGE) domain problem about differences in volume of liquid that was pumped into the well versus what came out. Using various factors such as pressure, type of liquid used, distance to other wells and age, we were asked to use Python and Machine Learning to give a recommendation to the judges (Industry Professionals).  In post, I continued to use our team solution, the winning teams solution and other resources given by the event's host to create my own solution. I simply found myself wanting to continue learning about Machine Learning with this problem. </text>
+## 🧠 Key Features
 
+- **Data Preprocessing**: Cleaning and preparing pressure-related time-series or sensor datasets.
+- **Exploratory Data Analysis (EDA)**: Visual inspection of variable correlations, trends, and anomalies.
+- **Modeling**: Implements algorithms such as `scikit-learn` models and `XGBoost` to capture relationships in the data.
+- **Evaluation**: Compares models using performance metrics (e.g., MAE, RMSE) to assess prediction accuracy.
 
+## 🛠️ Technologies Used
+
+- Python (Jupyter Notebook)
+- scikit-learn
+- XGBoost
+- pandas, numpy, matplotlib, seaborn
+
+## 📁 File Structure
+
+```
+DifferenceInPressure_04.ipynb   # Main notebook with full analysis
+```
+
+## 🚀 Getting Started
+
+1. Clone the repository or download the notebook.
+2. Install dependencies:
+   ```bash
+   pip install scikit-learn xgboost pandas matplotlib seaborn
+   ```
+3. Open the notebook in JupyterLab or Jupyter Notebook:
+   ```bash
+   jupyter notebook DifferenceInPressure_04.ipynb
+   ```
+
+## ✍️ Author
+
+**Tigris Mendez**  
+Participant, Energy A.I. Hackathon 2024
